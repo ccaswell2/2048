@@ -3,6 +3,8 @@ A Udacity version of Gabriele Cirulli's [original 2048](http://gabrielecirulli.g
 
 The original version is a small clone of [1024](https://play.google.com/store/apps/details?id=com.veewo.a1024), based on [Saming's 2048](http://saming.fr/p/2048/) (also a clone).
 
+Mardi Gras version made as part of Udacity 2048 class.
+
 ### Notes for the Udacity version
 We're using this version as the recommended fork to avoid potential learning issues as the original source changes (and the Udacity videos don't update). You can [fork the original repo as well](https://github.com/gabrielecirulli/2048)
 
